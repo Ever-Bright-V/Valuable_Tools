@@ -1,0 +1,75 @@
+2018-12-27 15:54:06 [INFO] pandownload version: 2.0.5
+2018-12-27 15:54:15 [INFO] aria2 version: 1.34.0
+2018-12-27 15:54:15 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2018-12-27 15:54:15 [INFO] create main window
+2018-12-27 15:54:15 [INFO] verify cookie (623)
+2018-12-27 15:54:17 [INFO] user login success (1379078960): 1246725901a
+2018-12-27 15:55:07 [WARN] panerr (0x20000000c)
+2018-12-27 15:55:07 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4","errno":120}]}
+2018-12-27 15:56:15 [WARN] ID#3 - No URI available.(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:56:17 [WARN] ID#3 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:56:26 [WARN] ID#3 - No URI available.(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:56:44 [INFO] verify cookie (644)
+2018-12-27 15:56:46 [INFO] user login success (2285008211): 1246725901a5
+2018-12-27 15:56:54 [WARN] panerr (0x20000000c)
+2018-12-27 15:56:54 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4","errno":120}]}
+2018-12-27 15:57:00 [WARN] panerr (0x200000079)
+2018-12-27 15:57:00 [WARN] request error (0x200000079): https://pan.baidu.com/api/sharedownload {"errno":121,"request_id":8364830014488861872,"server_time":1545897420}
+2018-12-27 15:57:05 [WARN] panerr (0x200000079)
+2018-12-27 15:57:05 [WARN] request error (0x200000079): https://pan.baidu.com/api/sharedownload {"errno":121,"request_id":8364831449254389633,"server_time":1545897425}
+2018-12-27 15:58:25 [WARN] panerr (0x2ffffffec)
+2018-12-27 15:58:25 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8364852807658678211,"server_time":1545897505}
+2018-12-27 15:59:48 [WARN] panerr (0x200000002)
+2018-12-27 15:59:48 [WARN] request error (0x200000002): https://pan.baidu.com/api/sharedownload {"errno":2,"request_id":8364867044653984428}
+2018-12-27 16:00:35 [INFO] verify cookie (618)
+2018-12-27 16:00:37 [INFO] user login success (1379078960): 1246725901a
+2018-12-27 16:01:34 [WARN] panerr (0x20000000c)
+2018-12-27 16:01:34 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4Library","errno":120}]}
+2018-12-27 16:03:29 [WARN] panerr (0x200000079)
+2018-12-27 16:03:29 [WARN] request error (0x200000079): https://pan.baidu.com/api/sharedownload {"errno":121,"request_id":8364934487095470185,"server_time":1545897809}
+2018-12-27 16:04:52 [WARN] panerr (0x20000000c)
+2018-12-27 16:04:52 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Grooves","errno":120}]}
+2018-12-27 16:06:56 [WARN] panerr (0x20000000c)
+2018-12-27 16:06:56 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Grooves","errno":120}]}
+2018-12-27 16:10:51 [WARN] panerr (0x200000070)
+2018-12-27 16:10:51 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":8365053294502188218,"server_time":1545898251}
+2018-12-27 16:10:53 [WARN] panerr (0x2ffffffec)
+2018-12-27 16:10:53 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8365053759744096483,"server_time":1545898253}
+2018-12-27 16:10:58 [WARN] panerr (0x2ffffffec)
+2018-12-27 16:10:58 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8365055176260650658,"server_time":1545898258}
+2018-12-27 16:11:16 [WARN] panerr (0x2ffffffec)
+2018-12-27 16:11:16 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8365059937718240380,"server_time":1545898276}
+2018-12-27 17:50:59 [WARN] panerr (0x400000000)
+2018-12-27 17:52:23 [WARN] panerr (0x400000000)
+2018-12-27 18:01:59 [WARN] panerr (0x200000001)
+2018-12-27 18:01:59 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":8366842114802343464}
+2018-12-27 18:33:42 [WARN] panerr (0x200000001)
+2018-12-27 18:33:42 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":8367352752342458400}
+2018-12-27 18:57:24 [WARN] panerr (0x200000070)
+2018-12-27 18:57:24 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":8367735776551511323,"server_time":1545908244}
+2018-12-27 18:57:26 [WARN] panerr (0x2ffffffec)
+2018-12-27 18:57:26 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367736238178035695,"server_time":1545908246}
+2018-12-27 18:58:39 [WARN] panerr (0x2ffffffec)
+2018-12-27 18:58:39 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367755852453599194,"server_time":1545908319}
+2018-12-27 18:59:01 [WARN] panerr (0x2ffffffec)
+2018-12-27 18:59:01 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367761646990198621,"server_time":1545908341}
+2018-12-27 18:59:06 [WARN] panerr (0x2ffffffec)
+2018-12-27 18:59:06 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367762953483940357,"server_time":1545908346}
+2018-12-27 19:00:32 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:00:32 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367778105552240122,"server_time":1545908432}
+2018-12-27 19:00:55 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:00:55 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367792296967541318,"server_time":1545908455}
+2018-12-27 19:02:19 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:02:19 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367806788119641603,"server_time":1545908539}
+2018-12-27 19:04:06 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:04:06 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367835519376504711,"server_time":1545908646}
+2018-12-27 19:05:32 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:05:32 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367858747055972368,"server_time":1545908733}
+2018-12-27 19:07:37 [WARN] panerr (0x200000070)
+2018-12-27 19:07:37 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":8367900191838725869,"server_time":1545908857}
+2018-12-27 19:08:09 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:08:09 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367900656544642774,"server_time":1545908889}
+2018-12-27 19:09:16 [WARN] panerr (0x2ffffffec)
+2018-12-27 19:09:16 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":8367926731012901279,"server_time":1545908956}
+2018-12-27 19:26:40 [INFO] close main window
+2018-12-27 19:26:41 [INFO] exit

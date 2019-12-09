@@ -1,0 +1,72 @@
+2019-01-19 13:39:09 [INFO] pandownload version: 2.0.5
+2019-01-19 13:39:12 [WARN] rpc error (0): request error 28
+2019-01-19 13:39:13 [INFO] aria2 version: 1.34.0
+2019-01-19 13:39:13 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-01-19 13:39:13 [INFO] create main window
+2019-01-19 13:39:13 [INFO] verify cookie (619)
+2019-01-19 13:39:13 [INFO] verify cookie (642)
+2019-01-19 13:39:15 [INFO] user login success (1379078960): 1246725901a
+2019-01-19 13:39:15 [INFO] user login success (2285008211): 1246725901a5
+2019-01-19 13:45:39 [WARN] rpc error (0): request error 28
+2019-01-19 16:08:04 [WARN] panerr (0x10000001c)
+2019-01-19 16:08:04 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 16:16:58 [WARN] panerr (0x200000001)
+2019-01-19 16:16:58 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":433205301317008216}
+2019-01-19 17:40:10 [WARN] panerr (0x10000001c)
+2019-01-19 17:40:10 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:40:40 [WARN] panerr (0x10000001c)
+2019-01-19 17:40:40 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:41:30 [WARN] panerr (0x10000001c)
+2019-01-19 17:41:30 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:44:51 [WARN] panerr (0x10000001c)
+2019-01-19 17:44:51 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:49:33 [WARN] panerr (0x10000001c)
+2019-01-19 17:49:33 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:50:43 [WARN] panerr (0x10000001c)
+2019-01-19 17:50:43 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:51:13 [WARN] panerr (0x10000001c)
+2019-01-19 17:51:13 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:53:38 [WARN] panerr (0x10000001c)
+2019-01-19 17:53:38 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:54:36 [WARN] panerr (0x10000001c)
+2019-01-19 17:54:36 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 17:59:51 [WARN] panerr (0x10000001c)
+2019-01-19 17:59:51 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:07:20 [WARN] panerr (0x10000001c)
+2019-01-19 18:07:20 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:11:42 [WARN] panerr (0x10000001c)
+2019-01-19 18:12:49 [WARN] panerr (0x10000001c)
+2019-01-19 18:12:49 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:13:19 [WARN] panerr (0x10000001c)
+2019-01-19 18:13:19 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:15:08 [WARN] panerr (0x10000001c)
+2019-01-19 18:15:08 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:26:15 [WARN] panerr (0x10000001c)
+2019-01-19 18:32:55 [WARN] panerr (0x10000001c)
+2019-01-19 18:32:55 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:49:20 [WARN] panerr (0x100000006)
+2019-01-19 18:50:20 [WARN] panerr (0x10000001c)
+2019-01-19 18:50:20 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:53:05 [WARN] panerr (0x10000001c)
+2019-01-19 18:53:05 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 18:57:02 [WARN] panerr (0x10000001c)
+2019-01-19 18:57:02 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-19 21:04:12 [WARN] panerr (0x100000006)
+2019-01-19 21:04:12 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-19 21:04:28 [WARN] panerr (0x100000006)
+2019-01-19 21:04:38 [WARN] panerr (0x100000006)
+2019-01-19 21:04:38 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-19 21:04:38 [WARN] panerr (0x100000006)
+2019-01-19 23:05:41 [WARN] panerr (0x200000001)
+2019-01-19 23:05:41 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":439788071475317357}
+2019-01-19 23:39:13 [WARN] panerr (0x10000001c)
+2019-01-20 00:30:28 [WARN] rpc error (0): request error 28
+2019-01-20 00:30:28 [WARN] ID#1 - request error 28(0) FILE="C:/Users/asus/Desktop/迅雷下载1.rar" SIZE="1842410597"
+2019-01-20 00:30:28 [WARN] rpc error (0): response code 400
+2019-01-20 00:30:29 [WARN] rpc error (0): request error 28
+2019-01-20 00:30:29 [WARN] ID#2 - request error 28(0) FILE="C:/Users/asus/Desktop/息道游子__ 师.zip" SIZE="1193447100"
+2019-01-20 00:30:29 [WARN] rpc error (0): response code 400
+2019-01-20 00:30:31 [WARN] ID#2 - File C:/Users/asus/Desktop/息道游子__ 师.zip exists, but a control file(*.aria2) does not exist. Download was canceled in order to prevent your file from being truncated to 0. If you are sure to download the file all over again, then delete it or add --allow-overwrite=true option and restart aria2.(13) FILE="C:/Users/asus/Desktop/息道游子__ 师.zip" SIZE="1193447100"
+2019-01-20 00:30:37 [WARN] ID#2 - File C:/Users/asus/Desktop/息道游子__ 师.zip exists, but a control file(*.aria2) does not exist. Download was canceled in order to prevent your file from being truncated to 0. If you are sure to download the file all over again, then delete it or add --allow-overwrite=true option and restart aria2.(13) FILE="C:/Users/asus/Desktop/息道游子__ 师.zip" SIZE="1193447100"
+2019-01-20 01:26:57 [INFO] close main window
+2019-01-20 01:26:57 [INFO] exit

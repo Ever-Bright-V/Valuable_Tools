@@ -1,0 +1,10 @@
+2019-02-26 20:08:30 [INFO] pandownload version: 2.0.5
+2019-02-26 20:08:32 [WARN] rpc error (0): request error 28
+2019-02-26 20:08:34 [WARN] rpc error (0): request error 28
+2019-02-26 20:08:34 [INFO] aria2 version: 1.34.0
+2019-02-26 20:08:34 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-02-26 20:08:34 [INFO] create main window
+2019-02-26 20:08:34 [INFO] verify cookie (621)
+2019-02-26 20:08:36 [INFO] user login success (1379078960): 1246725901a
+2019-02-26 22:17:45 [INFO] close main window
+2019-02-26 22:17:45 [INFO] exit

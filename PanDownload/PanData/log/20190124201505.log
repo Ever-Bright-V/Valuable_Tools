@@ -1,0 +1,23 @@
+2019-01-24 20:15:05 [INFO] pandownload version: 2.0.5
+2019-01-24 20:15:07 [INFO] aria2 version: 1.34.0
+2019-01-24 20:15:07 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-01-24 20:15:07 [INFO] create main window
+2019-01-24 20:15:07 [INFO] verify cookie (619)
+2019-01-24 20:15:07 [INFO] verify cookie (642)
+2019-01-24 20:15:09 [INFO] user login success (1379078960): 1246725901a
+2019-01-24 20:15:09 [INFO] user login success (2285008211): 1246725901a5
+2019-01-24 20:19:17 [WARN] rpc error (0): request error 28
+2019-01-24 20:28:36 [WARN] ID#2 - No URI available.(22) FILE="C:/Users/asus/Desktop/win64_11gR2_database_2of2.zip" SIZE="1007988954"
+2019-01-24 20:30:11 [WARN] ID#1 - No URI available.(22) FILE="C:/Users/asus/Desktop/win64_11gR2_database_1of2.zip" SIZE="1213501989"
+2019-01-24 20:35:38 [WARN] panerr (0x200000001)
+2019-01-24 20:35:38 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":553335708921600811}
+2019-01-24 22:05:38 [WARN] panerr (0x200000064)
+2019-01-24 22:05:38 [WARN] request error (0x200000064): https://pan.baidu.com/api/quota {"errno":100,"request_id":554786044210986397}
+2019-01-25 00:00:07 [WARN] panerr (0x200000001)
+2019-01-25 00:00:07 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":556629274007587797}
+2019-01-25 00:11:42 [WARN] panerr (0x200000001)
+2019-01-25 00:11:42 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":556815873899892910}
+2019-01-25 00:34:49 [WARN] panerr (0x200000001)
+2019-01-25 00:34:49 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":557188236295779315}
+2019-01-25 01:17:31 [INFO] close main window
+2019-01-25 01:17:33 [INFO] exit

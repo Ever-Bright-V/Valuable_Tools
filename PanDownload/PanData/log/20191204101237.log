@@ -1,0 +1,44 @@
+2019-12-04 10:12:37 [INFO] pandownload version: 2.1.3
+2019-12-04 10:12:38 [INFO] aria2 websocket connection opened (127.0.0.1:36997)
+2019-12-04 10:12:38 [INFO] aria2 version: 1.34.0
+2019-12-04 10:12:38 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36997/jsonrpc
+2019-12-04 10:12:39 [INFO] create main window
+2019-12-04 10:12:39 [INFO] verify cookie (622)
+2019-12-04 10:12:39 [INFO] verify cookie (630)
+2019-12-04 10:12:41 [INFO] user login success (2285008211): 1246725901a5
+2019-12-04 10:12:41 [INFO] user login success (1379078960): 1246725901a
+2019-12-04 10:58:22 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7826584728019437237}
+2019-12-04 13:30:48 [WARN] ID#11 - Size mismatch Expected:20277436416 Actual:0(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-04 13:31:18 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 13:31:33 [WARN] request error (0x10000001c): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-12-04 13:32:48 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:22:38 [WARN] ID#11 - Size mismatch Expected:20277436416 Actual:0(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-04 18:23:12 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:23:24 [WARN] request error (0x10000001c): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-12-04 18:23:24 [WARN] ID#11 - The response status is not successful. status=405(22) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-04 18:23:40 [WARN] ID#11 - The response status is not successful. status=405(22) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-04 18:23:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:24:32 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:25:02 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:25:52 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:26:22 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:27:12 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:28:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:30:32 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:31:02 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:31:52 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:32:22 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:33:12 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:33:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:34:32 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:36:02 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:37:52 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:38:22 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:39:12 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:39:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:40:32 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-04 18:51:43 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7834208463017559539}
+2019-12-04 18:52:32 [INFO] close main window
+2019-12-04 18:52:32 [WARN] aria2 websocket connection closed (127.0.0.1:36997), code: 1000 (Normal close), reason: aria2 shutdown
+2019-12-04 18:52:33 [INFO] websocket client stop
+2019-12-04 18:52:33 [INFO] exit

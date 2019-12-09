@@ -1,0 +1,17 @@
+2019-03-04 18:26:36 [INFO] pandownload version: 2.0.5
+2019-03-04 18:26:36 [WARN] reopen user database
+2019-03-04 18:26:39 [WARN] rpc error (0): request error 28
+2019-03-04 18:26:40 [WARN] rpc error (0): request error 28
+2019-03-04 18:26:41 [INFO] aria2 version: 1.34.0
+2019-03-04 18:26:41 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-03-04 18:26:41 [INFO] create main window
+2019-03-04 18:27:29 [INFO] verify cookie (620)
+2019-03-04 18:27:31 [INFO] user login success (1379078960): 1246725901a
+2019-03-04 18:47:49 [WARN] panerr (0x200000001)
+2019-03-04 18:47:49 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":1456119197673876663}
+2019-03-04 20:06:08 [WARN] panerr (0x200000001)
+2019-03-04 20:06:08 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":1457381165562617071}
+2019-03-04 20:17:34 [WARN] panerr (0x200000001)
+2019-03-04 20:17:34 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":1457564744299209580}
+2019-03-05 00:10:58 [INFO] close main window
+2019-03-05 00:10:58 [INFO] exit

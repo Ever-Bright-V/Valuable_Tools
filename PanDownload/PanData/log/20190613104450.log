@@ -1,0 +1,24 @@
+2019-06-13 10:44:50 [INFO] pandownload version: 2.1.0
+2019-06-13 10:44:53 [WARN] rpc error (0): connecting
+2019-06-13 10:44:54 [WARN] aria2 websocket connection failed (127.0.0.1:6808), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-06-13 10:44:54 [WARN] rpc error (0): connection failed
+2019-06-13 10:44:54 [WARN] rpc error (0): connection failed
+2019-06-13 10:44:55 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-13 10:44:55 [INFO] aria2 version: 1.34.0
+2019-06-13 10:44:55 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-13 10:44:55 [INFO] create main window
+2019-06-13 10:44:55 [INFO] verify cookie (622)
+2019-06-13 10:45:16 [INFO] user login success (1379078960): 1246725901a
+2019-06-13 20:13:50 [WARN] ID#1 - No URI available.(22) FILE="C:/Users/asus/Desktop/stepsszwbjhff.zip" SIZE="461471183"
+2019-06-13 20:14:14 [WARN] ID#1 - SSL/TLS handshake failure: Error: 远程主机强迫关闭了一个现有的连接。
+(2746)(1) FILE="C:/Users/asus/Desktop/stepsszwbjhff.zip" SIZE="461471183"
+2019-06-13 20:14:17 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/stepsszwbjhff.zip" SIZE="461471183"
+2019-06-14 06:17:26 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-06-14 06:18:22 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-06-15 06:49:02 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-06-15 06:49:05 [INFO] close main window
+2019-06-15 06:49:05 [WARN] aria2 websocket connection closed (127.0.0.1:6808), code: 1000 (Normal close), reason: aria2 shutdown
+2019-06-15 06:49:06 [INFO] websocket client stop
+2019-06-15 06:49:06 [INFO] exit

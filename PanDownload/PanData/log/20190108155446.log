@@ -1,0 +1,162 @@
+2019-01-08 15:54:46 [INFO] pandownload version: 2.0.5
+2019-01-08 15:54:49 [INFO] aria2 version: 1.34.0
+2019-01-08 15:54:49 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-01-08 15:54:49 [INFO] create main window
+2019-01-08 15:54:49 [INFO] verify cookie (621)
+2019-01-08 15:54:49 [INFO] verify cookie (644)
+2019-01-08 15:54:51 [INFO] user login success (1379078960): 1246725901a
+2019-01-08 15:54:51 [INFO] user login success (2285008211): 1246725901a5
+2019-01-08 15:57:02 [WARN] panerr (0x20000000c)
+2019-01-08 15:57:02 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/musiclab_reallpc4.rar","errno":-32}]}
+2019-01-08 20:30:37 [WARN] panerr (0x200000001)
+2019-01-08 20:30:37 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":182169742458403286}
+2019-01-08 21:05:43 [WARN] panerr (0x200000001)
+2019-01-08 21:05:43 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":182735088674474800}
+2019-01-08 22:36:11 [WARN] panerr (0x200000001)
+2019-01-08 22:36:11 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":184192307297199576}
+2019-01-08 23:01:29 [WARN] panerr (0x100000006)
+2019-01-08 23:01:29 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:01:29 [WARN] panerr (0x100000006)
+2019-01-08 23:01:29 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:01:49 [WARN] panerr (0x100000006)
+2019-01-08 23:01:49 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:01:49 [WARN] panerr (0x100000006)
+2019-01-08 23:01:49 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:09 [WARN] panerr (0x100000006)
+2019-01-08 23:02:09 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:10 [WARN] panerr (0x100000006)
+2019-01-08 23:02:10 [WARN] panerr (0x100000006)
+2019-01-08 23:02:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:10 [WARN] panerr (0x100000006)
+2019-01-08 23:02:30 [WARN] panerr (0x100000006)
+2019-01-08 23:02:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:30 [WARN] panerr (0x100000006)
+2019-01-08 23:02:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:50 [WARN] panerr (0x100000006)
+2019-01-08 23:02:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:02:50 [WARN] panerr (0x100000006)
+2019-01-08 23:02:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:10 [WARN] panerr (0x100000006)
+2019-01-08 23:03:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:10 [WARN] panerr (0x100000006)
+2019-01-08 23:03:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:30 [WARN] panerr (0x100000006)
+2019-01-08 23:03:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:30 [WARN] panerr (0x100000006)
+2019-01-08 23:03:30 [WARN] panerr (0x100000006)
+2019-01-08 23:03:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:30 [WARN] panerr (0x100000006)
+2019-01-08 23:03:50 [WARN] panerr (0x100000006)
+2019-01-08 23:03:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:03:50 [WARN] panerr (0x100000006)
+2019-01-08 23:03:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:10 [WARN] panerr (0x100000006)
+2019-01-08 23:04:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:10 [WARN] panerr (0x100000006)
+2019-01-08 23:04:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:30 [WARN] panerr (0x100000006)
+2019-01-08 23:04:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:30 [WARN] panerr (0x100000006)
+2019-01-08 23:04:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:50 [WARN] panerr (0x100000006)
+2019-01-08 23:04:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:50 [WARN] panerr (0x100000006)
+2019-01-08 23:04:50 [WARN] panerr (0x100000006)
+2019-01-08 23:04:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:04:50 [WARN] panerr (0x100000006)
+2019-01-08 23:05:10 [WARN] panerr (0x100000006)
+2019-01-08 23:05:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:05:10 [WARN] panerr (0x100000006)
+2019-01-08 23:05:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:05:30 [WARN] panerr (0x100000006)
+2019-01-08 23:05:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:05:30 [WARN] panerr (0x100000006)
+2019-01-08 23:05:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:05:50 [WARN] panerr (0x100000006)
+2019-01-08 23:05:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:05:50 [WARN] panerr (0x100000006)
+2019-01-08 23:05:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:10 [WARN] panerr (0x100000006)
+2019-01-08 23:06:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:10 [WARN] panerr (0x100000006)
+2019-01-08 23:06:10 [WARN] panerr (0x100000006)
+2019-01-08 23:06:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:10 [WARN] panerr (0x100000006)
+2019-01-08 23:06:30 [WARN] panerr (0x100000006)
+2019-01-08 23:06:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:30 [WARN] panerr (0x100000006)
+2019-01-08 23:06:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:50 [WARN] panerr (0x100000006)
+2019-01-08 23:06:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:06:50 [WARN] panerr (0x100000006)
+2019-01-08 23:06:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:10 [WARN] panerr (0x100000006)
+2019-01-08 23:07:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:10 [WARN] panerr (0x100000006)
+2019-01-08 23:07:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:30 [WARN] panerr (0x100000006)
+2019-01-08 23:07:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:30 [WARN] panerr (0x100000006)
+2019-01-08 23:07:30 [WARN] panerr (0x100000006)
+2019-01-08 23:07:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:30 [WARN] panerr (0x100000006)
+2019-01-08 23:07:50 [WARN] panerr (0x100000006)
+2019-01-08 23:07:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:07:50 [WARN] panerr (0x100000006)
+2019-01-08 23:07:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:10 [WARN] panerr (0x100000006)
+2019-01-08 23:08:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:10 [WARN] panerr (0x100000006)
+2019-01-08 23:08:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:30 [WARN] panerr (0x100000006)
+2019-01-08 23:08:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:30 [WARN] panerr (0x100000006)
+2019-01-08 23:08:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:50 [WARN] panerr (0x100000006)
+2019-01-08 23:08:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:50 [WARN] panerr (0x100000006)
+2019-01-08 23:08:50 [WARN] panerr (0x100000006)
+2019-01-08 23:08:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:08:50 [WARN] panerr (0x100000006)
+2019-01-08 23:09:10 [WARN] panerr (0x100000006)
+2019-01-08 23:09:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:09:10 [WARN] panerr (0x100000006)
+2019-01-08 23:09:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:09:30 [WARN] panerr (0x100000006)
+2019-01-08 23:09:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:09:30 [WARN] panerr (0x100000006)
+2019-01-08 23:09:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:09:50 [WARN] panerr (0x100000006)
+2019-01-08 23:09:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:09:50 [WARN] panerr (0x100000006)
+2019-01-08 23:09:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:10 [WARN] panerr (0x100000006)
+2019-01-08 23:10:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:10 [WARN] panerr (0x100000006)
+2019-01-08 23:10:10 [WARN] panerr (0x100000006)
+2019-01-08 23:10:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:10 [WARN] panerr (0x100000006)
+2019-01-08 23:10:30 [WARN] panerr (0x100000006)
+2019-01-08 23:10:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:30 [WARN] panerr (0x100000006)
+2019-01-08 23:10:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:50 [WARN] panerr (0x100000006)
+2019-01-08 23:10:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:10:50 [WARN] panerr (0x100000006)
+2019-01-08 23:10:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:10 [WARN] panerr (0x100000006)
+2019-01-08 23:11:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:10 [WARN] panerr (0x100000006)
+2019-01-08 23:11:10 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:30 [WARN] panerr (0x100000006)
+2019-01-08 23:11:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:30 [WARN] panerr (0x100000006)
+2019-01-08 23:11:30 [WARN] panerr (0x100000006)
+2019-01-08 23:11:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:30 [WARN] panerr (0x100000006)
+2019-01-08 23:11:50 [WARN] panerr (0x100000006)
+2019-01-08 23:11:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:11:50 [WARN] panerr (0x100000006)
+2019-01-08 23:11:50 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-01-08 23:31:54 [INFO] close main window
+2019-01-08 23:31:54 [INFO] exit

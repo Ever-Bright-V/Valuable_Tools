@@ -1,0 +1,20 @@
+2019-06-09 08:03:04 [INFO] pandownload version: 2.0.6
+2019-06-09 08:03:06 [WARN] aria2 websocket connection failed, state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-06-09 08:03:06 [WARN] rpc error (0): connecting
+2019-06-09 08:03:07 [INFO] aria2 websocket connection opened
+2019-06-09 08:03:07 [INFO] aria2 version: 1.34.0
+2019-06-09 08:03:07 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-09 08:03:07 [INFO] create main window
+2019-06-09 08:03:07 [INFO] verify cookie (622)
+2019-06-09 08:03:09 [INFO] user login success (1379078960): 1246725901a
+2019-06-09 08:09:52 [WARN] ID#1 - No URI available.(24) FILE="C:/Users/asus/Desktop/oracle10g Server.rar" SIZE="648422040"
+2019-06-09 11:32:22 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":3698809905605069932}
+2019-06-09 13:11:13 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":3700401831257746907}
+2019-06-09 14:20:23 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":3701515794131783677}
+2019-06-09 16:55:09 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":3704008766512386781}
+2019-06-09 18:43:53 [INFO] close main window
+2019-06-09 18:43:53 [WARN] aria2 websocket connection closed, code: 1000 (Normal close), reason: aria2 shutdown
+2019-06-09 18:43:54 [INFO] websocket client stop
+2019-06-09 18:43:54 [INFO] exit

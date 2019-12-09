@@ -1,0 +1,33 @@
+2018-12-27 15:39:01 [INFO] pandownload version: 2.0.5
+2018-12-27 15:39:06 [INFO] aria2 version: 1.34.0
+2018-12-27 15:39:06 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2018-12-27 15:39:10 [INFO] create main window
+2018-12-27 15:40:09 [INFO] verify cookie (623)
+2018-12-27 15:40:11 [INFO] user login success (1379078960): 1246725901a
+2018-12-27 15:41:21 [WARN] panerr (0xb00000000)
+2018-12-27 15:41:53 [WARN] panerr (0x20000000c)
+2018-12-27 15:41:53 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4","errno":120}]}
+2018-12-27 15:43:07 [WARN] panerr (0x20000000c)
+2018-12-27 15:43:07 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4","errno":120}]}
+2018-12-27 15:47:09 [WARN] panerr (0x200000002)
+2018-12-27 15:47:09 [WARN] request error (0x200000002): https://pan.baidu.com/api/sharedownload {"errno":2,"request_id":8364663460758987863}
+2018-12-27 15:49:06 [WARN] panerr (0x200000001)
+2018-12-27 15:50:33 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.1 Setup.exe" SIZE="42079653"
+2018-12-27 15:50:36 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.1 Setup.exe" SIZE="42079653"
+2018-12-27 15:50:37 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.101 beta7.exe" SIZE="26615256"
+2018-12-27 15:50:38 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.1 Setup.exe" SIZE="42079653"
+2018-12-27 15:50:40 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.101 beta7.exe" SIZE="26615256"
+2018-12-27 15:50:43 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4  win主程序/SSD Sampler 1.101 beta7.exe" SIZE="26615256"
+2018-12-27 15:51:18 [WARN] ID#3 - No URI available.(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:51:21 [WARN] ID#3 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:51:23 [WARN] ID#3 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/SSD4.Grooves.zip" SIZE="4057386"
+2018-12-27 15:51:59 [WARN] panerr (0x200000070)
+2018-12-27 15:51:59 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":8364749372736088564,"server_time":1545897119}
+2018-12-27 15:52:31 [WARN] panerr (0x200000002)
+2018-12-27 15:52:31 [WARN] request error (0x200000002): https://pan.baidu.com/api/sharedownload {"errno":2,"request_id":8364749858646497698}
+2018-12-27 15:52:44 [WARN] panerr (0x20000000c)
+2018-12-27 15:52:44 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4Library","errno":120}]}
+2018-12-27 15:53:40 [WARN] panerr (0x20000000c)
+2018-12-27 15:53:40 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/SSD4Library","errno":120}]}
+2018-12-27 15:53:51 [INFO] close main window
+2018-12-27 15:53:52 [INFO] exit

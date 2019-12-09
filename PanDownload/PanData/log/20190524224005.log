@@ -1,0 +1,20 @@
+2019-05-24 22:40:05 [INFO] pandownload version: 2.0.6
+2019-05-24 22:40:08 [WARN] rpc error (0): connecting
+2019-05-24 22:40:08 [WARN] aria2 websocket connection failed, state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-05-24 22:40:09 [WARN] aria2 websocket connection failed, state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-05-24 22:40:09 [WARN] rpc error (0): connecting
+2019-05-24 22:40:09 [INFO] aria2 websocket connection opened
+2019-05-24 22:40:09 [INFO] aria2 version: 1.34.0
+2019-05-24 22:40:09 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-05-24 22:40:09 [INFO] create main window
+2019-05-24 22:40:10 [INFO] verify cookie (622)
+2019-05-24 22:40:12 [INFO] user login success (1379078960): 1246725901a
+2019-05-24 22:41:25 [WARN] ID#9 - No URI available.(22) FILE="C:/Users/asus/Desktop/DELPHI书PDF版/汇编语言_第2版.pdf" SIZE="120739985"
+2019-05-24 23:10:23 [INFO] close main window
+2019-05-24 23:10:23 [WARN] aria2 websocket connection closed, code: 1000 (Normal close), reason: aria2 shutdown
+2019-05-24 23:10:24 [INFO] websocket client stop
+2019-05-24 23:10:24 [INFO] exit

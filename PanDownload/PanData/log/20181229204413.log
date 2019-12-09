@@ -1,0 +1,148 @@
+2018-12-29 20:44:13 [INFO] pandownload version: 2.0.5
+2018-12-29 20:44:32 [INFO] aria2 version: 1.34.0
+2018-12-29 20:44:32 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2018-12-29 20:44:32 [INFO] create main window
+2018-12-29 20:44:32 [INFO] verify cookie (644)
+2018-12-29 20:44:32 [INFO] verify cookie (618)
+2018-12-29 20:44:34 [INFO] user login success (2285008211): 1246725901a5
+2018-12-29 20:44:34 [INFO] user login success (1379078960): 1246725901a
+2018-12-29 20:47:24 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8415892757198269848}
+2018-12-29 20:47:24 [WARN] ID#3 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/Trilian/Trilian.z24" SIZE="730000000"
+2018-12-29 20:47:25 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8415893021843717852}
+2018-12-29 20:47:25 [WARN] ID#3 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/Trilian/Trilian.z24" SIZE="730000000"
+2018-12-29 21:07:06 [WARN] rpc error (0): request error 28
+2018-12-29 21:07:40 [WARN] rpc error (0): request error 28
+2018-12-29 21:08:13 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416228245950776689}
+2018-12-29 21:08:13 [WARN] ID#8 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r06" SIZE="100000000"
+2018-12-29 21:08:13 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416228363281848914}
+2018-12-29 21:08:14 [WARN] ID#9 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r07" SIZE="100000000"
+2018-12-29 21:08:14 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416228475506570116}
+2018-12-29 21:08:14 [WARN] ID#10 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r08" SIZE="100000000"
+2018-12-29 21:08:14 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416228584721323231}
+2018-12-29 21:08:14 [WARN] ID#11 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r09" SIZE="100000000"
+2018-12-29 21:08:26 [WARN] ID#8 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r06" SIZE="100000000"
+2018-12-29 21:08:28 [WARN] ID#8 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r06" SIZE="100000000"
+2018-12-29 21:08:30 [WARN] ID#10 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r08" SIZE="100000000"
+2018-12-29 21:08:32 [WARN] ID#10 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r08" SIZE="100000000"
+2018-12-29 21:08:34 [WARN] ID#11 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r09" SIZE="100000000"
+2018-12-29 21:08:56 [WARN] ID#9 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r07" SIZE="100000000"
+2018-12-29 21:09:00 [WARN] ID#9 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r07" SIZE="100000000"
+2018-12-29 21:09:02 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:09:04 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:09:06 [WARN] ID#11 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r09" SIZE="100000000"
+2018-12-29 21:09:07 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:09:08 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r12" SIZE="100000000"
+2018-12-29 21:09:09 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416243207722677628}
+2018-12-29 21:09:09 [WARN] ID#14 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r12" SIZE="100000000"
+2018-12-29 21:09:09 [WARN] ID#15 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:09:10 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416243375489640532}
+2018-12-29 21:09:10 [WARN] ID#16 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:09:11 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r12" SIZE="100000000"
+2018-12-29 21:09:12 [WARN] ID#17 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:09:14 [WARN] ID#15 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:09:14 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416244636566805895}
+2018-12-29 21:09:14 [WARN] ID#15 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:09:16 [WARN] ID#17 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:09:17 [WARN] ID#16 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:09:19 [WARN] ID#16 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:09:21 [WARN] ID#18 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:09:25 [WARN] ID#18 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:09:27 [WARN] ID#18 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:09:29 [WARN] ID#19 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:09:31 [WARN] ID#19 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:09:33 [WARN] ID#19 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:09:41 [WARN] rpc error (0): request error 28
+2018-12-29 21:09:48 [WARN] ID#17 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:09:50 [WARN] ID#21 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:09:52 [WARN] ID#21 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:10:24 [WARN] ID#21 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:10:57 [WARN] ID#22 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r20" SIZE="100000000"
+2018-12-29 21:10:59 [WARN] ID#22 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r20" SIZE="100000000"
+2018-12-29 21:11:01 [WARN] ID#22 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r20" SIZE="100000000"
+2018-12-29 21:11:03 [WARN] ID#23 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r21" SIZE="100000000"
+2018-12-29 21:11:05 [WARN] ID#23 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r21" SIZE="100000000"
+2018-12-29 21:11:07 [WARN] ID#23 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r21" SIZE="100000000"
+2018-12-29 21:11:09 [WARN] ID#24 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r22" SIZE="100000000"
+2018-12-29 21:11:11 [WARN] ID#24 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r22" SIZE="100000000"
+2018-12-29 21:11:13 [WARN] ID#24 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r22" SIZE="100000000"
+2018-12-29 21:11:15 [WARN] ID#25 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r23" SIZE="100000000"
+2018-12-29 21:11:17 [WARN] ID#25 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r23" SIZE="100000000"
+2018-12-29 21:11:19 [WARN] ID#25 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r23" SIZE="100000000"
+2018-12-29 21:11:21 [WARN] ID#26 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r24" SIZE="100000000"
+2018-12-29 21:11:23 [WARN] ID#26 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r24" SIZE="100000000"
+2018-12-29 21:11:25 [WARN] ID#26 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r24" SIZE="100000000"
+2018-12-29 21:11:27 [WARN] ID#27 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r25" SIZE="100000000"
+2018-12-29 21:11:29 [WARN] ID#27 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r25" SIZE="100000000"
+2018-12-29 21:11:31 [WARN] ID#27 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r25" SIZE="100000000"
+2018-12-29 21:11:33 [WARN] ID#28 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r26" SIZE="100000000"
+2018-12-29 21:11:35 [WARN] ID#28 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r26" SIZE="100000000"
+2018-12-29 21:11:36 [WARN] ID#28 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r26" SIZE="100000000"
+2018-12-29 21:11:38 [WARN] ID#29 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r27" SIZE="100000000"
+2018-12-29 21:11:44 [WARN] ID#29 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/add2/r2r-2163.r27" SIZE="100000000"
+2018-12-29 21:13:00 [WARN] rpc error (0): request error 28
+2018-12-29 21:13:01 [WARN] rpc error (0): request error 28
+2018-12-29 21:13:02 [WARN] rpc error (0): request error 28
+2018-12-29 21:14:42 [WARN] rpc error (0): request error 28
+2018-12-29 21:14:43 [WARN] rpc error (0): request error 28
+2018-12-29 21:24:40 [WARN] ID#1 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r20" SIZE="100000000"
+2018-12-29 21:24:42 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r20" SIZE="100000000"
+2018-12-29 21:27:50 [WARN] ID#3 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r18" SIZE="100000000"
+2018-12-29 21:27:52 [WARN] ID#3 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r18" SIZE="100000000"
+2018-12-29 21:27:52 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416544761357087299}
+2018-12-29 21:27:52 [WARN] ID#3 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r18" SIZE="100000000"
+2018-12-29 21:27:53 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416544874443748303}
+2018-12-29 21:27:53 [WARN] ID#4 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:27:53 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416544982803993129}
+2018-12-29 21:27:53 [WARN] ID#5 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:27:53 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416545101032425472}
+2018-12-29 21:27:54 [WARN] ID#6 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:27:54 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416545209698833602}
+2018-12-29 21:27:54 [WARN] ID#7 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:27:54 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416545322643803226}
+2018-12-29 21:27:54 [WARN] ID#8 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:27:56 [WARN] ID#9 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r12" SIZE="100000000"
+2018-12-29 21:27:58 [WARN] ID#4 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:28:00 [WARN] ID#4 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:28:02 [WARN] ID#5 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:28:04 [WARN] ID#5 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:28:06 [WARN] ID#6 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:28:37 [WARN] ID#6 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:28:41 [WARN] ID#7 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:28:51 [WARN] ID#7 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:28:53 [WARN] ID#8 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:28:55 [WARN] ID#8 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r13" SIZE="100000000"
+2018-12-29 21:28:57 [WARN] ID#9 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r12" SIZE="100000000"
+2018-12-29 21:29:02 [WARN] ID#2 - No URI available.(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:29:34 [WARN] ID#2 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:29:36 [WARN] ID#2 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:30:08 [WARN] ID#10 - The response status is not successful. status=500(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:30:10 [WARN] ID#10 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:30:45 [WARN] ID#10 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r11" SIZE="100000000"
+2018-12-29 21:37:26 [WARN] ID#2 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:37:26 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416698897057761794}
+2018-12-29 21:37:26 [WARN] ID#2 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r19" SIZE="100000000"
+2018-12-29 21:37:27 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416699004644031003}
+2018-12-29 21:37:27 [WARN] ID#4 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r17" SIZE="100000000"
+2018-12-29 21:37:27 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416699120370617992}
+2018-12-29 21:37:27 [WARN] ID#5 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r16" SIZE="100000000"
+2018-12-29 21:37:28 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416699286613806085}
+2018-12-29 21:37:28 [WARN] ID#6 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r15" SIZE="100000000"
+2018-12-29 21:37:28 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416699454618260184}
+2018-12-29 21:37:29 [WARN] ID#7 - 您的账号可能已被百度限速(-3) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r14" SIZE="100000000"
+2018-12-29 21:37:29 [WARN] script log (默认): {"error_code":31326,"error_msg":"user is not authorized, hitcode:117","request_id":8416699569256091032}
+2018-12-29 21:54:02 [WARN] ID#3 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/鼓/r2r-2163.r18" SIZE="100000000"
+2018-12-29 21:54:17 [WARN] rpc error (0): response code 400
+2018-12-29 21:54:17 [WARN] rpc error (0): response code 400
+2018-12-29 21:56:09 [INFO] verify cookie (618)
+2018-12-29 21:56:12 [INFO] user login success (1047199359): 倌颜丶
+2018-12-29 22:01:06 [WARN] panerr (0x200000001)
+2018-12-29 22:01:06 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":8417079054008653793}
+2018-12-29 22:08:43 [WARN] rpc error (0): request error 28
+2018-12-29 22:49:30 [WARN] rpc error (0): request error 28
+2018-12-29 22:58:37 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="C:/Users/asus/Desktop/Trilian.z24" SIZE="730000000"
+2018-12-29 23:11:36 [INFO] verify cookie (595)
+2018-12-29 23:11:40 [INFO] user login success (3990792974): Archiezwq
+2018-12-29 23:12:44 [WARN] panerr (0x20000000c)
+2018-12-29 23:12:44 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Trilian.z24","errno":-30}]}
+2018-12-29 23:26:47 [INFO] close main window
+2018-12-29 23:26:48 [INFO] exit

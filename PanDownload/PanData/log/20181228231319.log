@@ -1,0 +1,9 @@
+2018-12-28 23:13:19 [INFO] pandownload version: 2.0.5
+2018-12-28 23:13:22 [INFO] aria2 version: 1.34.0
+2018-12-28 23:13:22 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2018-12-28 23:13:22 [INFO] create main window
+2018-12-28 23:13:22 [INFO] verify cookie (644)
+2018-12-28 23:13:22 [INFO] verify cookie (618)
+2018-12-28 23:13:26 [INFO] user login success (1379078960): 1246725901a
+2018-12-28 23:13:29 [INFO] close main window
+2018-12-28 23:13:29 [INFO] exit

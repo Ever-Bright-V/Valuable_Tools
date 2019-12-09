@@ -1,0 +1,102 @@
+2019-12-01 15:53:21 [INFO] pandownload version: 2.1.3
+2019-12-01 15:53:22 [INFO] aria2 websocket connection opened (127.0.0.1:36931)
+2019-12-01 15:53:22 [INFO] aria2 version: 1.34.0
+2019-12-01 15:53:22 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36931/jsonrpc
+2019-12-01 15:53:22 [INFO] create main window
+2019-12-01 15:53:22 [INFO] verify cookie (622)
+2019-12-01 15:53:22 [INFO] verify cookie (630)
+2019-12-01 15:53:24 [INFO] user login success (2285008211): 1246725901a5
+2019-12-01 15:53:24 [INFO] user login success (1379078960): 1246725901a
+2019-12-01 16:46:15 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7762609585962173485}
+2019-12-01 17:49:04 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7763621161649487583}
+2019-12-01 18:40:26 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7764448451763414943}
+2019-12-01 20:11:37 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7765917018637425562}
+2019-12-01 22:32:08 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7768180219194457557}
+2019-12-01 22:33:57 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7768209440744406444}
+2019-12-01 22:42:08 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7768341350314034469}
+2019-12-01 22:54:57 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-01 22:55:27 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-01 22:55:42 [WARN] request error (0x10000001c): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-12-01 22:55:43 [WARN] ID#11 - The response status is not successful. status=405(22) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-01 22:55:57 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-01 22:55:58 [WARN] ID#11 - The response status is not successful. status=405(22) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-12-01 22:56:47 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-01 22:57:17 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-01 22:58:07 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-12-01 22:58:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:58:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:58:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 22:59:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:00:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:01:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:02:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:03:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:27 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:04:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:05:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:06:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:07:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:08:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:09:48 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:10:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:10:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:10:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:10:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-12-01 23:10:29 [INFO] close main window
+2019-12-01 23:10:29 [WARN] aria2 websocket connection closed (127.0.0.1:36931), code: 1000 (Normal close), reason: aria2 shutdown
+2019-12-01 23:10:30 [INFO] websocket client stop
+2019-12-01 23:10:30 [INFO] exit

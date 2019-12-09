@@ -1,0 +1,96 @@
+2019-01-09 13:21:46 [INFO] pandownload version: 2.0.5
+2019-01-09 13:21:46 [WARN] reopen user database
+2019-01-09 13:21:55 [INFO] aria2 version: 1.34.0
+2019-01-09 13:21:55 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-01-09 13:21:55 [INFO] create main window
+2019-01-09 13:22:23 [INFO] verify cookie (650)
+2019-01-09 13:22:25 [INFO] user login success (2285008211): 1246725901a5
+2019-01-09 13:23:13 [INFO] verify cookie (619)
+2019-01-09 13:23:15 [INFO] user login success (1379078960): 1246725901a
+2019-01-09 13:32:15 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198625294947200405}
+2019-01-09 13:32:15 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:32:32 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198630070912354600}
+2019-01-09 13:32:32 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:32:33 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198630171816396892}
+2019-01-09 13:32:33 [WARN] ID#6 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part6.rar" SIZE="102076594"
+2019-01-09 13:32:33 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198630227685851535}
+2019-01-09 13:32:33 [WARN] ID#7 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018安装教程.mp4" SIZE="172757815"
+2019-01-09 13:32:33 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198630339629648748}
+2019-01-09 13:32:33 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:32:36 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198631025822537903}
+2019-01-09 13:32:36 [WARN] ID#7 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018安装教程.mp4" SIZE="172757815"
+2019-01-09 13:32:36 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198630392845901594}
+2019-01-09 13:32:36 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198631199992882085}
+2019-01-09 13:32:36 [WARN] ID#6 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part6.rar" SIZE="102076594"
+2019-01-09 13:32:36 [WARN] ID#7 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018安装教程.mp4" SIZE="172757815"
+2019-01-09 13:32:37 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198631312666775893}
+2019-01-09 13:32:37 [WARN] ID#6 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part6.rar" SIZE="102076594"
+2019-01-09 13:43:34 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198807734199312673}
+2019-01-09 13:43:34 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:43:34 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198807841757119608}
+2019-01-09 13:43:35 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:43:35 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198807952148726441}
+2019-01-09 13:43:35 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:43:49 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198811709386170839}
+2019-01-09 13:43:49 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:43:49 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198811817911830559}
+2019-01-09 13:43:49 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:43:50 [WARN] script log (默认): {"error_code":31066,"error_msg":"file does not exist","request_id":198811924679471876}
+2019-01-09 13:43:50 [WARN] ID#4 - file does not exist(-3) FILE="C:/Users/asus/Desktop/Waves 2018【公众号：音律屋】/Waves2018 PC.part4.rar" SIZE="734003200"
+2019-01-09 13:44:23 [WARN] panerr (0x20000000c)
+2019-01-09 13:44:23 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Waves 2018\u3010\u516c\u4f17\u53f7\uff1a\u97f3\u5f8b\u5c4b\u3011","errno":-30}]}
+2019-01-09 14:01:33 [WARN] panerr (0x200000070)
+2019-01-09 14:01:33 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":199097448164704385,"server_time":1547013695}
+2019-01-09 14:18:11 [WARN] rpc error (0): request error 28
+2019-01-09 14:18:12 [WARN] rpc error (0): request error 28
+2019-01-09 14:23:12 [WARN] rpc error (0): request error 28
+2019-01-09 14:23:13 [WARN] rpc error (0): request error 28
+2019-01-09 14:24:12 [WARN] rpc error (0): request error 28
+2019-01-09 14:24:13 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:46 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:53 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:54 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:55 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:56 [WARN] rpc error (0): request error 28
+2019-01-09 14:25:56 [WARN] ID#1 - No URI available.(2) FILE="C:/Users/asus/Desktop/Waves2018 PC.part5.rar" SIZE="734003200"
+2019-01-09 14:26:19 [WARN] rpc error (0): request error 28
+2019-01-09 14:26:20 [WARN] rpc error (0): request error 28
+2019-01-09 14:28:13 [WARN] rpc error (0): request error 28
+2019-01-09 14:33:14 [WARN] rpc error (0): request error 28
+2019-01-09 14:35:14 [WARN] rpc error (0): request error 28
+2019-01-09 14:41:13 [WARN] rpc error (0): request error 28
+2019-01-09 14:41:14 [WARN] rpc error (0): request error 28
+2019-01-09 14:42:50 [WARN] panerr (0x200000070)
+2019-01-09 14:42:50 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":199761726889517889,"server_time":1547016170}
+2019-01-09 15:04:21 [WARN] rpc error (0): request error 28
+2019-01-09 15:30:27 [WARN] rpc error (0): request error 28
+2019-01-09 15:32:27 [WARN] rpc error (0): request error 28
+2019-01-09 15:32:28 [WARN] rpc error (0): request error 28
+2019-01-09 16:11:38 [WARN] rpc error (0): request error 28
+2019-01-09 16:13:38 [WARN] rpc error (0): request error 28
+2019-01-09 16:20:41 [WARN] rpc error (0): request error 28
+2019-01-09 16:26:42 [WARN] rpc error (0): request error 28
+2019-01-09 16:31:44 [WARN] rpc error (0): request error 28
+2019-01-09 16:32:44 [WARN] rpc error (0): request error 28
+2019-01-09 16:33:44 [WARN] rpc error (0): request error 28
+2019-01-09 16:33:46 [WARN] rpc error (0): request error 28
+2019-01-09 16:34:45 [WARN] rpc error (0): request error 28
+2019-01-09 16:41:46 [WARN] rpc error (0): request error 28
+2019-01-09 16:43:47 [WARN] rpc error (0): request error 28
+2019-01-09 16:43:48 [WARN] rpc error (0): request error 28
+2019-01-09 16:44:48 [WARN] rpc error (0): request error 28
+2019-01-09 16:59:54 [WARN] rpc error (0): request error 28
+2019-01-09 16:59:55 [WARN] rpc error (0): request error 28
+2019-01-09 17:02:55 [WARN] rpc error (0): request error 28
+2019-01-09 17:30:25 [WARN] ID#1 - Timeout.(2) FILE="C:/Users/asus/Desktop/Waves2018 PC.part5.rar" SIZE="734003200"
+2019-01-09 17:51:11 [WARN] rpc error (0): request error 28
+2019-01-09 19:09:31 [WARN] panerr (0x200000001)
+2019-01-09 19:09:31 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":204055830073997820}
+2019-01-09 20:20:28 [WARN] panerr (0x10000001c)
+2019-01-09 20:20:28 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-09 20:21:35 [WARN] panerr (0x100000007)
+2019-01-09 20:22:05 [WARN] panerr (0x10000001c)
+2019-01-09 20:22:05 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-01-09 20:23:11 [WARN] panerr (0x100000007)
+2019-01-09 20:24:01 [WARN] panerr (0x10000001c)
+2019-01-09 20:24:01 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 

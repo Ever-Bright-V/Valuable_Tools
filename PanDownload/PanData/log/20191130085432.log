@@ -1,0 +1,26 @@
+2019-11-30 08:54:33 [INFO] pandownload version: 2.1.3
+2019-11-30 08:54:34 [INFO] aria2 websocket connection opened (127.0.0.1:36943)
+2019-11-30 08:54:34 [INFO] aria2 version: 1.34.0
+2019-11-30 08:54:34 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36943/jsonrpc
+2019-11-30 08:54:34 [INFO] create main window
+2019-11-30 08:54:34 [INFO] verify cookie (622)
+2019-11-30 08:54:35 [INFO] verify cookie (630)
+2019-11-30 08:54:36 [INFO] user login success (1379078960): 1246725901a
+2019-11-30 08:54:36 [INFO] user login success (2285008211): 1246725901a5
+2019-11-30 08:56:44 [WARN] ID#11 - No URI available.(22) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 14:15:47 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 14:38:53 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 16:37:12 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7739270892576566460}
+2019-11-30 17:39:43 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 19:00:46 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 19:41:35 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7742240235342907260}
+2019-11-30 20:36:14 [WARN] ID#11 - No URI available.(1) FILE="E:/MathWorks MATLAB R2019a v9.6.0.1174912 x64/R2019a_Windows.iso" SIZE="20277436416"
+2019-11-30 20:43:05 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7743230661507926657}
+2019-11-30 21:25:29 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7743913733398309706}
+2019-11-30 21:49:13 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7744295998095579731}
+2019-11-30 22:08:25 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7744605265851122178}
+2019-11-30 22:58:40 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7745414490881088972}
+2019-11-30 23:13:39 [INFO] close main window
+2019-11-30 23:13:39 [WARN] aria2 websocket connection closed (127.0.0.1:36943), code: 1000 (Normal close), reason: aria2 shutdown
+2019-11-30 23:13:40 [INFO] websocket client stop
+2019-11-30 23:13:40 [INFO] exit

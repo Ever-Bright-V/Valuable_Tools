@@ -1,0 +1,18 @@
+2019-06-13 10:41:45 [INFO] pandownload version: 2.1.0
+2019-06-13 10:42:01 [WARN] rpc error (0): connecting
+2019-06-13 10:42:02 [WARN] aria2 websocket connection failed (127.0.0.1:6808), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-06-13 10:42:02 [WARN] rpc error (0): connection failed
+2019-06-13 10:42:02 [WARN] rpc error (0): connection failed
+2019-06-13 10:42:04 [WARN] aria2 websocket connection failed (127.0.0.1:6808), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-06-13 10:42:04 [WARN] rpc error (0): connection failed
+2019-06-13 10:42:04 [WARN] rpc error (0): connection failed
+2019-06-13 10:42:06 [WARN] aria2 websocket connection failed (127.0.0.1:6808), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2019-06-13 10:42:07 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-13 10:44:42 [INFO] websocket client stop
+2019-06-13 10:44:42 [INFO] exit

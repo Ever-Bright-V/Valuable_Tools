@@ -1,0 +1,42 @@
+2019-01-05 09:10:04 [INFO] pandownload version: 2.0.5
+2019-01-05 09:10:07 [INFO] aria2 version: 1.34.0
+2019-01-05 09:10:07 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-01-05 09:10:07 [INFO] create main window
+2019-01-05 09:10:07 [INFO] verify cookie (621)
+2019-01-05 09:10:07 [INFO] verify cookie (644)
+2019-01-05 09:10:08 [INFO] user login success (1379078960): 1246725901a
+2019-01-05 09:10:09 [INFO] user login success (2285008211): 1246725901a5
+2019-01-05 09:48:21 [WARN] rpc error (0): request error 28
+2019-01-05 15:29:54 [WARN] panerr (0x200000001)
+2019-01-05 15:29:54 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":107747710417782237}
+2019-01-05 21:29:24 [WARN] panerr (0x200000001)
+2019-01-05 21:29:24 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":113537853277703964}
+2019-01-05 22:05:41 [WARN] rpc error (0): request error 28
+2019-01-05 22:07:42 [WARN] rpc error (0): request error 28
+2019-01-05 22:07:43 [WARN] rpc error (0): request error 28
+2019-01-05 22:07:44 [WARN] rpc error (0): request error 28
+2019-01-05 22:09:41 [WARN] rpc error (0): request error 28
+2019-01-05 22:11:25 [WARN] panerr (0x20000000c)
+2019-01-05 22:11:25 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Embertone Friedlander Violin 1.0.1","errno":-32}]}
+2019-01-05 22:13:50 [WARN] panerr (0x20000000c)
+2019-01-05 22:13:50 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Embertone Friedlander Violin 1.0.1","errno":-32}]}
+2019-01-05 22:15:15 [WARN] panerr (0x20000000c)
+2019-01-05 22:15:15 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Embertone Friedlander Violin 1.0.1","errno":-32}]}
+2019-01-05 22:17:57 [WARN] panerr (0x20000000c)
+2019-01-05 22:17:57 [WARN] request error (0x20000000c): https://pan.baidu.com/share/transfer {"errno":12,"task_id":0,"info":[{"path":"\/Embertone Friedlander Violin 1.0.1","errno":-32}]}
+2019-01-05 22:19:22 [WARN] panerr (0xb00000000)
+2019-01-05 22:32:39 [INFO] garbage scan taskid: 159117344899345
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:40:50 [WARN] rpc error (0): response code 400
+2019-01-05 22:43:52 [WARN] rpc error (0): request error 28
+2019-01-05 22:44:35 [WARN] rpc error (0): request error 28
+2019-01-05 22:44:51 [WARN] rpc error (0): request error 28
+2019-01-05 22:45:52 [WARN] rpc error (0): request error 28
+2019-01-05 23:21:19 [WARN] panerr (0x200000001)
+2019-01-05 23:21:19 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":115340637629650967}
+2019-01-05 23:27:15 [INFO] close main window
+2019-01-05 23:27:15 [INFO] exit

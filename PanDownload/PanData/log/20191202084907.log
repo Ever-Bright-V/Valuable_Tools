@@ -1,0 +1,33 @@
+2019-12-02 08:49:07 [INFO] pandownload version: 2.1.3
+2019-12-02 08:49:08 [INFO] aria2 websocket connection opened (127.0.0.1:36959)
+2019-12-02 08:49:08 [INFO] aria2 version: 1.34.0
+2019-12-02 08:49:08 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36959/jsonrpc
+2019-12-02 08:49:08 [INFO] create main window
+2019-12-02 08:49:08 [INFO] verify cookie (622)
+2019-12-02 08:49:08 [INFO] verify cookie (630)
+2019-12-02 08:49:10 [INFO] user login success (2285008211): 1246725901a5
+2019-12-02 08:49:10 [INFO] user login success (1379078960): 1246725901a
+2019-12-02 08:57:54 [WARN] ID#12 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD1.iso" SIZE="8615225344"
+2019-12-02 08:57:54 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:57:56 [WARN] ID#12 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD1.iso" SIZE="8615225344"
+2019-12-02 08:57:56 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:57:59 [WARN] ID#12 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD1.iso" SIZE="8615225344"
+2019-12-02 08:57:59 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:58:01 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/SolidWorks2016SP0keygen.rar" SIZE="7620599"
+2019-12-02 08:58:03 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/SolidWorks2016SP0keygen.rar" SIZE="7620599"
+2019-12-02 08:58:05 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/SolidWorks2016SP0keygen.rar" SIZE="7620599"
+2019-12-02 08:58:15 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:58:15 [WARN] ID#12 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD1.iso" SIZE="8615225344"
+2019-12-02 08:58:17 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:58:17 [WARN] ID#12 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD1.iso" SIZE="8615225344"
+2019-12-02 08:58:19 [WARN] ID#13 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/Solidworks2016SP00FullDVD2.iso" SIZE="2560528384"
+2019-12-02 08:58:22 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/SolidWorks2016SP0keygen.rar" SIZE="7620599"
+2019-12-02 08:58:24 [WARN] ID#14 - The response status is not successful. status=403(22) FILE="E:/SolidWorks 2016/SolidWorks2016SP0keygen.rar" SIZE="7620599"
+2019-12-02 09:15:17 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7778538743720050882}
+2019-12-02 11:57:57 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7781158612818112607}
+2019-12-02 12:39:13 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7781823172593468846}
+2019-12-02 13:29:03 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":7782623771110414180}
+2019-12-02 14:43:05 [INFO] close main window
+2019-12-02 14:43:05 [WARN] aria2 websocket connection closed (127.0.0.1:36959), code: 1000 (Normal close), reason: aria2 shutdown
+2019-12-02 14:43:06 [INFO] websocket client stop
+2019-12-02 14:43:06 [INFO] exit

@@ -1,0 +1,14 @@
+【激活之前请先退出360等杀毒软件，以免误杀】
+1.首先双击安装p7_k416360655_TUFRtWAeLoXiLknoyT7FLRj0m4S.exe
+2.接收右键以管理员身份运行 Auto.cmd、Autopico.exe
+3.完成.
+
+
+
+
+【使用方法】
+#Win7需装 .NET 4.0，Win8以上系统则无需
+1、双击安装p7_k416360655_ihpMQFKMYLMSIaPxZZmZ3wCtwEbs
+2、首次管理员身份运行"卸载服务.bat"清除服务；
+3、系统管理员身份运行KMSpico_setup.exe安装；
+4、耐心等待（安装完即可自动激活！）
